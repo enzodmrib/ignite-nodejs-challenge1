@@ -1,0 +1,24 @@
+{
+  "name": "ignite-nodejs-challenge1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzodmrib/ignite-nodejs-challenge1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzodmrib/ignite-nodejs-challenge1/issues"
+  },
+  "homepage": "https://github.com/enzodmrib/ignite-nodejs-challenge1#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
